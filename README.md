@@ -1,0 +1,1 @@
+# RI-sum-of-first-N-natural-number
